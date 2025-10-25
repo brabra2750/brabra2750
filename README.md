@@ -1,8 +1,8 @@
-<h1 align="center">👋 Hello, here are a few details about me !! 😉</h1>
+<h1 align="center">👋 Salut, Ici quelque détails à propos de moi !! 😉</h1>
 
 ###
 
-<h4 align="left">The social networks I have</h4>
+<h4 align="left">Les Réseaux Sociaux que j'ai :</h4>
 
 ###
 
@@ -32,7 +32,7 @@
 
 ###
 
-<h4 align="left">The code languages I use</h4>
+<h4 align="left">Les languages de codes que j'utilise :</h4>
 
 ###
 
@@ -125,7 +125,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brabra2750&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=brabra2750&locale=fr&mode=weekly&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=brabra2750&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brabra2750&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brabra2750&radius=16&theme=react&area=true&order=5&custom_title=Graphique%20de%20Contribuations%20de%20Bryan" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -144,20 +144,6 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=brabra2750.brabra2750&"  />
-</div>
-
-###
-
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
-  </a>
 </div>
 
 ###
